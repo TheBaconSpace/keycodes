@@ -1,4 +1,4 @@
-# JavaScript Keycodes → [KeyCode.info](http://keycode.info)
+# JavaScript Keycodes → [KeyCode](http://thebaconspace.x10.mx/info/)
 
 ![](http://wes.io/dsHT/content)
 
